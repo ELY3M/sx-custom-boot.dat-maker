@@ -28,7 +28,7 @@ def sha256(data):
 	
 boot_fn = 'boot.dat'
 # Custom payload filename.
-stage2_fn = 'hekate_ctcaer_5.0.2.bin'
+stage2_fn = 'hekate_ctcaer_5.1.0.bin'
 
 boot = open(boot_fn, 'wb')
 
