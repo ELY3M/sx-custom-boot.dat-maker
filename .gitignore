@@ -1,0 +1,12 @@
+build
+git.txt
+.*/
+*.bin
+*.elf
+*.nso
+*.pfs0
+*.nacp
+*.nro
+*.bz2
+*.zip
+*~
