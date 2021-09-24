@@ -28,7 +28,7 @@ def sha256(data):
 	
 boot_fn = 'boot.dat'
 # Custom payload filename.
-stage2_fn = 'fusee.bin'
+stage2_fn = 'fusee-primary.bin'
 
 boot = open(boot_fn, 'wb')
 
